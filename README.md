@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi, Welcome to Oscar Chen's Github
 
-<!--
-**OscarC9912/OscarC9912** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I am Doing:
 
-Here are some ideas to get you started:
+#### Now:
+- I’m working on CNN and image recgonition.
+- I’m learning Transformers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Future:
+- I would probably do research in Spatio/Media Database and Machine Learning.
+
+
+### Education:
+
+Honours Bachelor of Science at University of Toronto
+Major in Computer Science and Mathematics
+
+### Contact:
+- email: oscar.chen9912@gmail.com
+
+
