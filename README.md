@@ -3,7 +3,6 @@
 ### Research Interest
 - I would probably do research in Spatiadatabase, Data Mining, and Machine Learning.
 
-
 ### Education:
 
 PhD (in computer science and engineering) student at Hong Kong University of Science and Technology
